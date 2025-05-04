@@ -1,7 +1,5 @@
 import requests
 import pandas as pd
-from openpyxl import Workbook
-
 
 # CrowdStrike API credentials
 CLIENT_ID = "Your_Client_ID"
